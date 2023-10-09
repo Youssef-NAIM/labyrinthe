@@ -1,1 +1,0 @@
-[mot vers botswana](https://github.com/Youssef-NAIM/labyrinthe/blob/main/Botswana.md.txt)
