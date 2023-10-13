@@ -1,4 +1,4 @@
-Vous découvrez les plages de sable blanc et les eaux cristallines de l'océan Indien. Vous dégustez des fruits de mer délicieux.
+##Vous découvrez les plages de sable blanc et les eaux cristallines de l'océan Indien. Vous dégustez des fruits de mer délicieux.
 
 [vers Niger](https://github.com/Youssef-NAIM/labyrinthe/blob/main/Niger.md)
 
