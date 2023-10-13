@@ -1,4 +1,6 @@
 mali
-https://github.com/Youssef-NAIM/labyrinthe/blob/main/Niger.md
-https://github.com/Youssef-NAIM/labyrinthe/blob/main/Cameroun.md
-https://github.com/Youssef-NAIM/labyrinthe/blob/main/Egypte.md
+[vers Niger] https://github.com/Youssef-NAIM/labyrinthe/blob/main/Niger.md
+
+[vers Cameroun] https://github.com/Youssef-NAIM/labyrinthe/blob/main/Cameroun.md
+
+[vers Egypte] https://github.com/Youssef-NAIM/labyrinthe/blob/main/Egypte.md
