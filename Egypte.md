@@ -1,1 +1,1 @@
-egypte
+[vers l'afrique] https://github.com/Youssef-NAIM/labyrinthe/blob/main/Afrique.md
